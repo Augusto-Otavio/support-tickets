@@ -5,8 +5,8 @@
   "main": "src/server.js",
   "scripts": {
     "dev": "node --watch src/server.js"
-  },
+  }, 
   "author": "Otavio Augusto",
-  "license": "ISC",
+  "license": "ISC", 
   "type": "module"
 }
